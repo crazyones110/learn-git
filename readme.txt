@@ -4,8 +4,4 @@ hello world
 第三次修改
 第4次修改
 creating a new branch is quick and simple
-boss
-<<<<<<< HEAD
-creating a new branch is quick and simple 
-=======
->>>>>>> feature1
+boss 
