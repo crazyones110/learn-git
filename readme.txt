@@ -4,5 +4,4 @@ hello world
 第三次修改
 第4次修改
 boss
-creating a new branch is quick
-again create 
+creating a new branch is quick and simple 
