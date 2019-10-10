@@ -6,3 +6,4 @@ hello world
 creating a new branch is quick & simple
 <<<<<<< HEAD
 boss is sb
+多捞啊
