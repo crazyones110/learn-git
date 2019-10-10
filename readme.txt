@@ -4,6 +4,7 @@ hello world
 第三次修改
 第4次修改
 creating a new branch is quick & simple
-<<<<<<< HEAD
 boss is sb
 多捞啊
+
+
